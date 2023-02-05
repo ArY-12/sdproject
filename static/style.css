@@ -75,7 +75,7 @@ header .logo span{
 header .navbar a{
     font-size: 2rem;
     padding:0 1.5rem;
-    color:white;
+    color:black;
 }
 
 header .navbar a:hover{
